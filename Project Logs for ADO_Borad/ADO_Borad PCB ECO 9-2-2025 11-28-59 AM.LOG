@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetRL1_1 Pin=Safty?-2
+Added Pin To Net: NetName=NetRL2_4 Pin=RL2-4
+Added Pin To Net: NetName=NetRL2_4 Pin=Safty?-2
+Added Net: Name=NetRL2_4
+Added Room: Name=ADO_Borad

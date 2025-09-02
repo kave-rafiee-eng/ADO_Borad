@@ -1,0 +1,39 @@
+Added Component: Designator=Input(CONECTOR/FONIX/3PIN)
+Added Component: Designator=L1(LED/0805)
+Added Component: Designator=L2(LED/0805)
+Added Component: Designator=R1(RES/0805)
+Added Component: Designator=R2(RES/0805)
+Added Component: Designator=RL1(RELAY-5V)
+Added Component: Designator=RL2(RELAY-5V)
+Added Component: Designator=Safty(CONECTOR/FONIX/2PIN)
+Added Pin To Net: NetName=NetInput_1 Pin=Input-1
+Added Pin To Net: NetName=NetInput_1 Pin=L1-K
+Added Pin To Net: NetName=NetInput_1 Pin=RL1-3
+Added Net: Name=NetInput_1
+Added Pin To Net: NetName=NetInput_2 Pin=Input-2
+Added Pin To Net: NetName=NetInput_2 Pin=R1-2
+Added Pin To Net: NetName=NetInput_2 Pin=R2-2
+Added Pin To Net: NetName=NetInput_2 Pin=RL1-5
+Added Pin To Net: NetName=NetInput_2 Pin=RL2-3
+Added Net: Name=NetInput_2
+Added Pin To Net: NetName=NetInput_3 Pin=Input-3
+Added Pin To Net: NetName=NetInput_3 Pin=L2-K
+Added Pin To Net: NetName=NetInput_3 Pin=RL2-5
+Added Net: Name=NetInput_3
+Added Pin To Net: NetName=NetL1_A Pin=L1-A
+Added Pin To Net: NetName=NetL1_A Pin=R1-1
+Added Net: Name=NetL1_A
+Added Pin To Net: NetName=NetL2_A Pin=L2-A
+Added Pin To Net: NetName=NetL2_A Pin=R2-1
+Added Net: Name=NetL2_A
+Added Pin To Net: NetName=NetRL1_1 Pin=RL1-1
+Added Pin To Net: NetName=NetRL1_1 Pin=Safty-2
+Added Net: Name=NetRL1_1
+Added Pin To Net: NetName=NetRL1_4 Pin=RL1-4
+Added Pin To Net: NetName=NetRL1_4 Pin=RL2-1
+Added Net: Name=NetRL1_4
+Added Pin To Net: NetName=NetRL2_4 Pin=RL2-4
+Added Pin To Net: NetName=NetRL2_4 Pin=Safty-1
+Added Net: Name=NetRL2_4
+Added Class: Name=ADO_Borad
+Added Room: Name=ADO_Borad

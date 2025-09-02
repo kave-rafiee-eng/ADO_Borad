@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetInput_2 Pin=Input-2
+Removed Pin From Net: NetName=NetRL1_1 Pin=Safty-2
+Removed Member From Class: ClassName=ADO_Borad Member=Input
+Removed Member From Class: ClassName=ADO_Borad Member=Safty
+Added Component: Designator=Input?(CONECTOR/FONIX/3PIN)
+Added Component: Designator=Safty?(CONECTOR/FONIX/2PIN)
+Added Pin To Net: NetName=NetInput_2 Pin=Input?-2
+Added Pin To Net: NetName=NetRL1_1 Pin=Safty?-1
+Added Pin To Net: NetName=NetRL1_1 Pin=Safty?-2
+Change Net Name : Old Net Name=NetInput_2 New Net Name=NetInput?_2
+Added Pin To Net: NetName=NetInput?_1 Pin=Input?-1
+Added Pin To Net: NetName=NetInput?_1 Pin=L2-K
+Added Pin To Net: NetName=NetInput?_1 Pin=RL2-5
+Added Net: Name=NetInput?_1
+Added Pin To Net: NetName=NetInput?_3 Pin=Input?-3
+Added Pin To Net: NetName=NetInput?_3 Pin=L1-K
+Added Pin To Net: NetName=NetInput?_3 Pin=RL1-3
+Added Net: Name=NetInput?_3
+Added Member To Class: ClassName=ADO_Borad Member=Component Input? Ph3
+Added Member To Class: ClassName=ADO_Borad Member=Component Safty? PH2
+Added Room: Name=ADO_Borad
